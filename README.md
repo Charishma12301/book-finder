@@ -37,4 +37,11 @@ Book Finder App here](https://l975qc.csb.app/)
    ```bash
    git clone https://github.com/YOUR_USERNAME/book-finder.git
    cd book-finder
+2.Install dependencies:
 
+npm install
+
+
+3.Start the project:
+
+npm start
